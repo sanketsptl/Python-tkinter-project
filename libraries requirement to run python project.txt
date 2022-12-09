@@ -1,0 +1,4 @@
+For perfoming project we need a few libararies like
+(1) tkinter
+(2) sqlite3
+(3) tkinter.messagebox
